@@ -1,2 +1,2 @@
 # Python_Project_101
-Hnds-on Python Project using Machine Learning Algorithom
+Hands-on Python Projects using Machine Learning Algorithom
